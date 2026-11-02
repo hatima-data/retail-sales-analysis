@@ -1,4 +1,4 @@
-# reatail_sales
+# reatail-sales
 
 ## 💡 Key Business Insights
 
